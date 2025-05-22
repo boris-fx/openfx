@@ -1,6 +1,3 @@
-This software is distributed under the "3-Clause BSD License".
-===
-
 Copyright OpenFX and contributors to the OpenFX project.
 SPDX-License-Identifier: BSD-3-Clause
 
