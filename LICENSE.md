@@ -1,4 +1,5 @@
-BSD 3-Clause License
+This software is distributed under the "3-Clause BSD License".
+===
 
 Copyright (c) 2025, OpenFX and contributors to the OpenFX project
 
